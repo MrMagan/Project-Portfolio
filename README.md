@@ -17,4 +17,5 @@ based on a user's measured heart rate.
 ### Technologies
 ESP32 • C/C++ • I2C • I2S • MAX30102 • ADXL335 • SSD1306
 
-(Original repository)
+[Original repository](https://github.com/ronnie-s2/Cadence_Feedback)
+[Published Project Paper]
