@@ -18,4 +18,4 @@ based on a user's measured heart rate.
 ESP32 • C/C++ • I2C • I2S • MAX30102 • ADXL335 • SSD1306
 
 [Original repository](https://github.com/ronnie-s2/Cadence_Feedback)
-[Published Project Paper]
+[Published Project Paper](https://github.com/MrMagan/Project-Portfolio/blob/main/A%20Cadence-Based%20Bio-Feedback%20System%20for%20Workout%20Optimization.pdf)
